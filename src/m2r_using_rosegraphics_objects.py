@@ -28,15 +28,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 #              down
 #
 #     b. Write a line of code that constructs a RoseWindow object:
-#            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
-#
-#     c. What is the default height of a RoseWindow?
-#        (Use the HOVER trick to determine the answer to this question.)
-#            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
-#
-#     d. Write a line of code that construct a RoseWindow object
-#        whose height is 100:  (Use the HOVER trick to figure it out)
-#            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
+#            point1.point = rg.Point(100, 100)
 #
 #     e. Use the DOT trick to answer the following:
 #

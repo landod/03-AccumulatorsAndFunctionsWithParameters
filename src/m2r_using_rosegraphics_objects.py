@@ -10,7 +10,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 
 ########################################################################
 #
-# TODO: 2.
+# Done: 2.
 #   RUN this program.  Then answer the following,
 #     GETTING HELP AS NEED! (Ask questions!!!)
 #
@@ -56,7 +56,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 #
 #   When you are confident that you have written correct answers
 #   to the above questions (ASK QUESTIONS AS NEEDED!),
-#   change the above TODO to DONE.
+#   change the above done to DONE.
 #
 ########################################################################
 
